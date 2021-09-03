@@ -9,7 +9,6 @@ My name is Eray and I am a computer engineer from İzmir.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="128"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="128"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript" width="128"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="128"/>
 </div>
 
 ##  📊 Frameworks & Databases
@@ -35,6 +34,7 @@ My name is Eray and I am a computer engineer from İzmir.
 <img src="https://im0-tub-tr.yandex.net/i?id=5aea9b52fe137a2a515be8553d751de7&n=13&exp=1" alt="Postman" width="128"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VisualStudio" width="128"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="Unity" width="128"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="128"/>
 </div> 
 
 ##  ☎️ Contanct
