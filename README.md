@@ -37,7 +37,7 @@ My name is Eray and I am a computer engineer from İzmir.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="128"/>
 </div> 
 
-##  ☎️ Contanct
+##  ☎️ Contact
 
 <div>
 <a href="https://www.linkedin.com/in/eray-berbero%C4%9Flu"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="128"/></a>
