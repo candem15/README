@@ -1,5 +1,5 @@
 # Hello Visitor! Welcome to my page 🙋‍♂️
-My name is Eray and I am a computer engineer from İzmir.
+My name is Eray and I am a computer engineer and software developer from İzmir.
 ## 💻 Programming Languages
 
 <div>
