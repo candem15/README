@@ -31,7 +31,7 @@ My name is Eray and I am a computer engineer and software developer from İzmir.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="128"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VScode" width="128"/>
 <img src="https://www.svgrepo.com/show/303269/microsoft-office-2013-logo.svg" alt="MsOffice" width="128"/>
-<img src="https://im0-tub-tr.yandex.net/i?id=5aea9b52fe137a2a515be8553d751de7&n=13&exp=1" alt="Postman" width="128"/>
+<img src="https://www.svgrepo.com/show/354201/postman.svg" alt="Postman" width="128"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VisualStudio" width="128"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="Unity" width="128"/>
 <img src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino" width="128"/>
