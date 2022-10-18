@@ -1,6 +1,6 @@
 # Hello Visitor! Welcome to my page 🙋‍♂️
 My name is Eray and I am a computer engineer and software developer from İzmir.
-## 💻 Programming Languages
+## 💻 Used Languages
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="Csharp" width="128"/>
